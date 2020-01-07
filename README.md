@@ -1,24 +1,26 @@
 # packet-capture-program-in-python-windows10-
 
-It made similar to the result of wireshark. how you can share the data of the datagram and segment.
+This is a very crude prototype.
+It made similar to the result of wireshark. 
+Wind want to see only the code for dividing the boundary of the datagram
 
-how to use
+How to use
 
-example 1
-###[ HTTP ]###
+    example 1
+    ###[ HTTP ]###
 
-input filter option : tcp http
-special keyword option : google.com
+    input filter option : tcp http
+    special keyword option : google.com
 
-example 2
-###[ DNS ]###
+    example 2
+    ###[ DNS ]###
 
-input filter option : udp dns
-special keyword option : naver.com
+    input filter option : udp dns
+    special keyword option : naver.com
 
-example 3
-###[ ICMP ]###
+    example 3
+    ###[ ICMP ]###
 
-input filter option : icmp
-special keyword option :
+    input filter option : icmp
+    special keyword option :
 
