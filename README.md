@@ -16,7 +16,7 @@ How to use
     ###[ DNS ]###
 
     input filter option : udp dns
-    special keyword option : naver.com
+    special keyword option : google.com
 
     example 3
     ###[ ICMP ]###
