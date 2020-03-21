@@ -1,7 +1,7 @@
 # packet-capture-program-in-python-windows10-
 
 This is a very crude prototype. It made similar to the result of wireshark. mac address output was not implemented.
-Wind want to see only the code for dividing the boundary of the datagram
+Use as a reference for the datagram divided
 
 
 How to use
